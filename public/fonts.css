@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Legends';
+  src: url('fonts/BADABB__.TTF');
+}
+* {
+  font-family: 'Legends';
+}
